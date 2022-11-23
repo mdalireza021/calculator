@@ -6,7 +6,7 @@ A simple android calculator
 <br/>
 <p align="center">
 
-  <img src="/screenshot_01.png" width="200" />
+  <img src="/media/screenshot_01.png" width="200" />
   
   
 </p>
